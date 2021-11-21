@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125223036915",
+    "project_id": "happymod-c77b3",
+    "storage_bucket": "happymod-c77b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125223036915:android:9dd1fff8ae964898645486",
+        "android_client_info": {
+          "package_name": "com.guide_foryou.walkthrough_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125223036915-uame8ntungoqgo3kvign3f04jss0iuhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtDTg6bFgxw0myuNqTVvHcGNMDu0NGWnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125223036915-uame8ntungoqgo3kvign3f04jss0iuhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
